@@ -24,6 +24,7 @@ Interesting for begginers and mid-levels.
 
 - [Kaggle](https://www.kaggle.com/leomauro/movies-classifying-genres-from-the-synopsis) - Movies Synopsis - Classifying Genres. [Code](jupyter/movies-classifying-genres-from-the-synopsis.ipynb)
 - [Kaggle](https://www.kaggle.com/leomauro/deep-learning-fast-ai-pt-br) - Deep Learning - Fast AI (pt-br). [Code](jupyter/deep-learning-fast-ai-pt-br.ipynb)
+- [Kaggle](https://www.kaggle.com/leomauro/deep-learning-reconhecimento-de-d-gitos) - Deep Learning - Reconhecimento de Dígitos (pt-br).
 - [Kaggle](https://www.kaggle.com/leomauro/nlp-detec-o-de-tweets-de-desastres) - NLP - Detecção de Tweets de Desastres (pt-br). [Code](jupyter/nlp-detecao-de-tweets-de-desastres.ipynb)
 - [Kaggle](https://www.kaggle.com/leomauro/spotify-songs-similarity-search) - Spotify Songs - Similarity search. [Code](jupyter/spotify-songs-similarity-search.ipynb)
 
