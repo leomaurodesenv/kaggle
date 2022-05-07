@@ -12,7 +12,8 @@ Interesting for begginers and mid-levels.
 > The notebooks with (pt-br) are written in Portuguese for Brazilian.   
 
 * Exploratory Data Analysis
-   - [Kaggle](https://www.kaggle.com/leomauro/eda-cen-rio-dos-cientistas-de-dados-no-brasil) | EDA - Cenário dos Cientistas de Dados no Brasil (pt-br).
+   - [Kaggle](https://www.kaggle.com/leomauro/eda-cen-rio-dos-cientistas-de-dados-no-brasil) | EDA - Cenário dos Cientistas de Dados no Brasil (2019) (pt-br).
+   - [Kaggle](https://www.kaggle.com/code/leomauro/profissionais-de-dados-no-brasil-2021) | EDA - Profissionais de Dados no Brasil (2021) (pt-br).
 * Clustering
    - [Kaggle](https://www.kaggle.com/leomauro/agrupamento-segmenta-o-de-clientes) | Agrupamento - Segmentação de Clientes (pt-br).
 * Classification, Regression
