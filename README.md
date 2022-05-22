@@ -27,6 +27,7 @@ Interesting for begginers and mid-levels.
 - [Kaggle](https://www.kaggle.com/leomauro/deep-learning-fast-ai-pt-br) | Deep Learning - Fast AI (pt-br). [Code](jupyter/deep-learning-fast-ai-pt-br.ipynb)
 - [Kaggle](https://www.kaggle.com/leomauro/deep-learning-reconhecimento-de-d-gitos) | Deep Learning - Reconhecimento de Dígitos (pt-br).
 - [Kaggle](https://www.kaggle.com/leomauro/nlp-detec-o-de-tweets-de-desastres) | NLP - Detecção de Tweets de Desastres (pt-br). [Code](jupyter/nlp-detecao-de-tweets-de-desastres.ipynb)
+- [Kaggle](https://www.kaggle.com/code/leomauro/nlp-document-retrieval-for-question-answering) | NLP - Document Retrieval for Question Answering. [Code](jupyter/nlp-document-retrieval-for-question-answering.ipynb)
 - [Kaggle](https://www.kaggle.com/leomauro/spotify-songs-similarity-search) | Spotify Songs - Similarity search. [Code](jupyter/spotify-songs-similarity-search.ipynb)
 - [Kaggle](https://www.kaggle.com/code/leomauro/anomaly-detection-streaming-data) | Anomaly Detection - Streaming Data. [Code](jupyter/anomaly-detection-streaming-data.ipynb)
 - [Kaggle](https://www.kaggle.com/code/leomauro/anomaly-detection-streaming-data-evaluation) | Anomaly Detection - Streaming Data (Evaluation). [Code](jupyter/anomaly-detection-streaming-data-evaluation.ipynb)
