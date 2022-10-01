@@ -40,6 +40,7 @@ Interesting for begginers and mid-levels.
 
 If you are looking for datasets...
 
+- [Brazil Stock Market](https://www.kaggle.com/datasets/leomauro/brazilian-stock-market-data-warehouse) - Stocks prices and companies details from the Brazil Stock Market.
 - [MyAnimeList Dataset](https://www.kaggle.com/natlee/myanimelist-comment-dataset) - Comments on animations with ratings.
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) - A Temporal Dataset from Super Mario Maker.
     - [GitHub](https://github.com/leomaurodesenv/smmnet) - Jupyter notebooks, research, and paper.
