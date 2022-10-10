@@ -32,7 +32,7 @@ Interesting for begginers and mid-levels.
 - [Kaggle](https://www.kaggle.com/code/leomauro/anomaly-detection-streaming-data) | Anomaly Detection - Streaming Data. [Code](jupyter/anomaly-detection-streaming-data.ipynb)
 - [Kaggle](https://www.kaggle.com/code/leomauro/anomaly-detection-streaming-data-evaluation) | Anomaly Detection - Streaming Data (Evaluation). [Code](jupyter/anomaly-detection-streaming-data-evaluation.ipynb)
 - [Kaggle](https://www.kaggle.com/code/leomauro/text-clustering-grouping-texts) | Text Clustering - Grouping Texts. [Code](jupyter/text-clustering-grouping-texts.ipynb)
-
+- [Kaggle](https://www.kaggle.com/code/leomauro/automl-benchmark-titanic-disaster) | AutoML Benchmark - Titanic Disaster. [Code](jupyter/automl-benchmark-titanic-disaster.ipynb)
 
 
 ---
